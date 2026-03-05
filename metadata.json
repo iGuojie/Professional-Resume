@@ -1,0 +1,5 @@
+{
+  "name": "Professional Resume Builder",
+  "description": "A React-based resume generator that renders a professional A4 PDF layout based on structured data, featuring Gemini AI for content optimization.",
+  "requestFramePermissions": []
+}

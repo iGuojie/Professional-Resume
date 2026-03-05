@@ -1,0 +1,6 @@
+/* Base stylesheet placeholder for Vite entry. */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
